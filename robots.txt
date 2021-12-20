@@ -1,0 +1,4 @@
+Sitemap: https://skans.dev/sitemap.xml
+
+User-agent: *
+Disallow:
