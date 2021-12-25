@@ -20,9 +20,9 @@ For example, to check websites `https://a.com`, `https://b.com` and `https://c.c
 
 ```julia
 pages = [
-    WebPage("http://a.com"),
-    WebPage("http://b.com"),
-    WebPage("http://c.com")
+    WebPage("https://a.com"),
+    WebPage("https://b.com"),
+    WebPage("https://c.com")
 ]
 ```
 
