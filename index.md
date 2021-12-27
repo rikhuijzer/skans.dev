@@ -2,7 +2,14 @@
 title = "Monitor web pages"
 +++
 
-Monitor web pages and get notified when a page has changed.
+~~~
+<center>
+<h1>Get notified when a web page has changed</h1>
+<i>Monitor web pages for changes.</i>
+<br/>
+</center>
+~~~
+
 
 ~~~
 <h2>Features</h2>
