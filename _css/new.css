@@ -79,7 +79,7 @@ textarea,
 ul,
 video {
 	/* Margins for most elements */
-	margin-bottom: 1rem;
+	margin-bottom: 1.5rem;
 }
 
 html,input,select,button {
@@ -100,7 +100,7 @@ body {
 
 	/* Main body text */
 	color: var(--nc-tx-2);
-	font-size: 1.03rem;
+	font-size: 1.2rem;
 	line-height: 1.5;
 }
 
@@ -113,7 +113,7 @@ body {
 h1,h2,h3,h4,h5,h6 {
 	line-height: 1;
 	color: var(--nc-tx-1);
-	padding-top: .875rem;
+	padding-top: 2rem;
 }
 
 h1,
@@ -121,7 +121,7 @@ h2,
 h3 {
 	color: var(--nc-tx-1);
 	padding-bottom: 2px;
-	margin-bottom: 8px;
+	margin-bottom: 2rem;
 }
 
 h4,
@@ -295,7 +295,7 @@ kbd {
 }
 
 pre {
-	padding: 1rem 1.4rem;
+	padding: 0.5rem 0.5rem;
 	max-width: 100%;
 	overflow: auto;
 }

@@ -2,6 +2,10 @@
 title = "Template repository"
 +++
 
+~~~
+<h2>Template</h2>
+~~~
+
 To quickly get started, go to <https://github.com/rikhuijzer/SkansTemplate> and click on "Use this template".
 
 This will copy the files from there and will immediately start to check the webpages <http://example.com> and <https://bbc.com> for changes.
