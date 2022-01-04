@@ -8,7 +8,7 @@ title = "Template repository"
 
 To quickly get started, go to <https://github.com/rikhuijzer/SkansTemplate> and click on "Use this template".
 
-This will copy the files from there and will immediately start to check the webpages <http://example.com> and <https://bbc.com> for changes.
+This will copy the files from there and will daily check the webpages <http://example.com> and <https://bbc.com> for changes.
 To monitor pages of your interest, go to the file `.github/workflows/Skan.yml` and replace
 
 ```julia
@@ -31,4 +31,7 @@ pages = [
 ```
 
 Don't forget to add commas.
+
+To change the interval to check for changes, change the line containing `- cron: '00 16 * * *'`.
+See [Wikipedia - Cron](https://en.wikipedia.org/wiki/Cron) for more information about how to specify intervals.
 
