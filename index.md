@@ -32,6 +32,13 @@ Monitor pages for:
 - Updates to legislation
 
 ~~~
+<h2>Example notification</h2>
+~~~
+
+For **testing**, this project monitors the BBC website.
+See <https://github.com/rikhuijzer/Skans.jl/issues/21> for example notifications.
+
+~~~
 <h2>Getting started</h2>
 ~~~
 
